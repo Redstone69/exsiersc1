@@ -10,7 +10,7 @@ public class Main {
 
         for (int i = 1; i <= 5; i++) {
             System.out.println(temps[i]);
-            double total =
+            double total =dfsdf;
         }
 
 
